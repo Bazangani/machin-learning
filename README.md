@@ -1,4 +1,4 @@
-# my-Develop
+# This repo contains: 
 1. Decision Tree
 2. Kmeans
 3. DBSCAN clustering 
